@@ -1,40 +1,37 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://github.com/Druva5555/Druva5555/assets/your-banner" alt="Hi I'm Druva Sai" />
-</p>
-
+<!-- Banner -->
 <h2 align="center">👋 Hi, I'm <strong>Tanuku Druva Sai</strong></h2>
 <p align="center">
-  Software Developer • Backend Engineer • Full-Stack Developer  
+  Backend Developer | Full-Stack Engineer | AI/ML Enthusiast  
 </p>
 
----
-
-## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Druva5555&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Druva5555&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Passionate about **Backend Engineering & Full-Stack Development**
-- 🌱 Currently learning **Advanced Node.js, Redis, Kafka & Cloud**
-- ⚙️ Interested in **System Design & Scalable Architectures**
-- 🔍 Like exploring **APIs, WebSocket, and real-time systems**
-- 💬 Love solving problems & debugging tricky issues
-- 📫 Reach me at: **druvatanuku@gmail.com**
+- 🎓 4th-year CSE student at **IIIT Sri City** (CGPA: 8.60) :contentReference[oaicite:1]{index=1}  
+- 👨‍💻 Strong in **Backend Development (Node.js + Java)**, **APIs**, **Databases**, and **System Design**  
+- 🌱 Currently learning **AWS Cloud**, **Advanced Backend with Java**, and **Distributed Systems**  
+- 🔍 Interested in **Real-time systems (WebRTC, Socket.io)**, **AI/ML**, and **Scalable Architectures**  
+- 💬 Love solving problems — 350+ DSA questions solved :contentReference[oaicite:2]{index=2}  
+- 📫 Reach me at: **druvatanuku@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/druva-tanuku](https://www.linkedin.com/in/druva-tanuku)
-- 😄 Fun fact: I enjoy building things more than planning them 😄
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ Skills & Technologies
 
-### **Languages**
+### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,py,java,c" />
+  <img src="https://skillicons.dev/icons?i=js,java,py,c" />
+</p>
+
+### **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
 </p>
 
 ### **Frontend**
@@ -42,20 +39,21 @@
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 </p>
 
-### **DevOps / Cloud / Tools**
+### **DevOps / Cloud / Systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
 </p>
+
+### **AI/ML & Data Science**
+- Machine Learning, Deep Learning  
+- NumPy, Pandas, Matplotlib  
+- TensorFlow / PyTorch  
+- RAG, LangChain :contentReference[oaicite:3]{index=3}  
 
 ---
 
@@ -64,32 +62,36 @@
 <details>
 <summary><b>🌱 BreathSafe – AQI Search Engine</b></summary>
 <br>
-A full-stack app to search city AQI with caching.  
+A full-stack app to search city AQI with caching for faster repeat lookups.  
 Tech: Node.js, Express, React.js, Tailwind, Redis  
-GitHub: *Add your repo link here*
 </details>
 
 <details>
-<summary><b>💬 NexusChat – Real-time Chat App</b></summary>
+<summary><b>💬 NexusChat – Real-time Chat & Video Calling Platform</b></summary>
 <br>
-Chat with sockets, custom rooms, and online user tracking.  
-Tech: Node.js, Socket.io, Express, MongoDB  
-GitHub: *Add your repo link here*
+Built using React.js, Node.js, MongoDB, Socket.io, WebRTC  
+- Improved WebRTC signaling latency by **25%**  
+- Real-time messaging, typing indicators, online status tracking  
+- JWT authentication & encrypted file sharing  
+- Distributed deployment with **99% uptime** :contentReference[oaicite:4]{index=4}  
 </details>
 
 <details>
 <summary><b>🎵 LyricLoom – Music Streaming Platform</b></summary>
 <br>
-A MERN-based music streaming web app with playlists & UI design.  
-GitHub: *Add your repo link here*
+A full MERN music streaming website  
+- Optimized audio performance by **20%**  
+- Real-time search improving engagement by **35%**  
+- Authentication + playlists + user favorites :contentReference[oaicite:5]{index=5}  
 </details>
 
 <details>
-<summary><b>🤖 Emotion Detection – NLP Classifier</b></summary>
+<summary><b>🤖 Air Quality Prediction using Machine Learning</b></summary>
 <br>
-Detects emotion from YouTube comments using custom lemmatization.  
-Tech: Python, NumPy, Pandas, NLP  
-GitHub: *Add your repo link here*
+- Used data from 38 stations (Bihar)  
+- Built MLP, Linear Regression, Random Forest models  
+- Achieved **R² = 0.976** with Random Forest  
+- Engineered spatial + temporal features (lag, k-NN averaging) :contentReference[oaicite:6]{index=6}  
 </details>
 
 ---
@@ -97,15 +99,15 @@ GitHub: *Add your repo link here*
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Druva5555&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druva5555&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Druva5555&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druva5555&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Druva5555&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Druva5555&theme=tokyonight"/>
 </p>
 
 ---
@@ -117,9 +119,13 @@ GitHub: *Add your repo link here*
 
 ---
 
-# 🎯 Goal
-To build scalable backend systems, contribute to impactful products, and grow as a strong software engineer.
+# 🎯 Goals for 2025
+- Master **Backend Engineering with Java & Node.js**  
+- Build **scalable system design projects**  
+- Strengthen **AWS + DevOps**  
+- Contribute to open-source  
+- Solve 500+ DSA problems  
 
 ---
 
-⭐ *Thanks for visiting my profile—feel free to explore my projects!*  
+⭐ *Thanks for visiting my profile — feel free to explore my projects!*  
