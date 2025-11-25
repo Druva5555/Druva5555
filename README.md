@@ -1,11 +1,7 @@
 <!-- Banner -->
 <h2 align="center">👋 Hi, I'm <strong>Tanuku Druva Sai</strong></h2>
 <p align="center">
-  Backend Developer | Full-Stack Engineer | AI/ML Enthusiast  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Druva5555&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  Backend Developer | Full-Stack Engineer | SoftwareDeveloper
 </p>
 
 ---
@@ -14,11 +10,11 @@
 
 - 🎓 4th-year CSE student at **IIIT Sri City** (CGPA: 8.60) :contentReference[oaicite:1]{index=1}  
 - 👨‍💻 Strong in **Backend Development (Node.js + Java)**, **APIs**, **Databases**, and **System Design**  
-- 🌱 Currently learning **AWS Cloud**, **Advanced Backend with Java**, and **Distributed Systems**  
+- 🌱 Currently learning **AWS Cloud**, **Advanced Backend with Java**
 - 🔍 Interested in **Real-time systems (WebRTC, Socket.io)**, **AI/ML**, and **Scalable Architectures**  
 - 💬 Love solving problems — 350+ DSA questions solved :contentReference[oaicite:2]{index=2}  
-- 📫 Reach me at: **druvatanuku@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/druva-tanuku](https://www.linkedin.com/in/druva-tanuku)
+- 📫 Reach me at: **dhruvasaithanuku@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/druva-tanuku](www.linkedin.com/in/druva-tanuku)
 
 ---
 
@@ -49,22 +45,10 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
 </p>
 
-### **AI/ML & Data Science**
-- Machine Learning, Deep Learning  
-- NumPy, Pandas, Matplotlib  
-- TensorFlow / PyTorch  
-- RAG, LangChain :contentReference[oaicite:3]{index=3}  
 
 ---
 
 # 🔥 Featured Projects
-
-<details>
-<summary><b>🌱 BreathSafe – AQI Search Engine</b></summary>
-<br>
-A full-stack app to search city AQI with caching for faster repeat lookups.  
-Tech: Node.js, Express, React.js, Tailwind, Redis  
-</details>
 
 <details>
 <summary><b>💬 NexusChat – Real-time Chat & Video Calling Platform</b></summary>
