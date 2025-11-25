@@ -1,20 +1,20 @@
 <!-- Banner -->
 <h2 align="center">👋 Hi, I'm <strong>Tanuku Druva Sai</strong></h2>
 <p align="center">
-  Backend Developer | Full-Stack Engineer | SoftwareDeveloper
+  Backend Developer | Full-Stack Engineer | Software Developer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 4th-year CSE student at **IIIT Sri City** (CGPA: 8.60) :contentReference[oaicite:1]{index=1}  
+- 🎓 4th-year CSE student at **IIIT Sri City** (CGPA: 8.60)  
 - 👨‍💻 Strong in **Backend Development (Node.js + Java)**, **APIs**, **Databases**, and **System Design**  
-- 🌱 Currently learning **AWS Cloud**, **Advanced Backend with Java**
+- 🌱 Currently learning **AWS Cloud** and **Advanced Backend with Java**
 - 🔍 Interested in **Real-time systems (WebRTC, Socket.io)**, **AI/ML**, and **Scalable Architectures**  
-- 💬 Love solving problems — 350+ DSA questions solved :contentReference[oaicite:2]{index=2}  
+- 💬 Love solving problems — 350+ DSA questions solved  
 - 📫 Reach me at: **dhruvasaithanuku@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/druva-tanuku](www.linkedin.com/in/druva-tanuku)
+- 🔗 LinkedIn: https://www.linkedin.com/in/druva-tanuku
 
 ---
 
@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
 </p>
 
-
 ---
 
 # 🔥 Featured Projects
@@ -57,7 +56,7 @@ Built using React.js, Node.js, MongoDB, Socket.io, WebRTC
 - Improved WebRTC signaling latency by **25%**  
 - Real-time messaging, typing indicators, online status tracking  
 - JWT authentication & encrypted file sharing  
-- Distributed deployment with **99% uptime** :contentReference[oaicite:4]{index=4}  
+- Distributed deployment with **99% uptime**
 </details>
 
 <details>
@@ -66,7 +65,7 @@ Built using React.js, Node.js, MongoDB, Socket.io, WebRTC
 A full MERN music streaming website  
 - Optimized audio performance by **20%**  
 - Real-time search improving engagement by **35%**  
-- Authentication + playlists + user favorites :contentReference[oaicite:5]{index=5}  
+- Authentication + playlists + user favorites
 </details>
 
 <details>
@@ -75,7 +74,7 @@ A full MERN music streaming website
 - Used data from 38 stations (Bihar)  
 - Built MLP, Linear Regression, Random Forest models  
 - Achieved **R² = 0.976** with Random Forest  
-- Engineered spatial + temporal features (lag, k-NN averaging) :contentReference[oaicite:6]{index=6}  
+- Engineered spatial + temporal features (lag, k-NN averaging)
 </details>
 
 ---
