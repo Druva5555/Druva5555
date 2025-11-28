@@ -12,7 +12,7 @@
 - 👨‍💻 Strong in **Backend Development (Node.js + Java)**, **APIs**, **Databases**, and **System Design**  
 - 🌱 Currently learning **AWS Cloud** and **Advanced Backend with Java**
 - 🔍 Interested in **Real-time systems (WebRTC, Socket.io)**, **AI/ML**, and **Scalable Architectures**  
-- 💬 Love solving problems — 350+ DSA questions solved  
+- 💬 Love solving problems — 400+ DSA questions solved  
 - 📫 Reach me at: **dhruvasaithanuku@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/druva-tanuku
 
