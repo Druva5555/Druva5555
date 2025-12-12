@@ -10,7 +10,7 @@
 
 - 🎓 4th-year CSE student at **IIIT Sri City** (CGPA: 8.60)  
 - 👨‍💻 Strong in **Backend Development (Node.js + Java)**, **APIs**, **Databases**, and **System Design**  
-- 🌱 Currently learning **AWS Cloud** and **Advanced Backend with Java**
+- 🌱 Currently learning **Azure Cloud** and **Advanced Backend with Java**
 - 🔍 Interested in **Real-time systems (WebRTC, Socket.io)**, **AI/ML**, and **Scalable Architectures**  
 - 💬 Love solving problems — 400+ DSA questions solved  
 - 📫 Reach me at: **dhruvasaithanuku@gmail.com**  
@@ -90,7 +90,7 @@ A full MERN music streaming website
 # 🎯 Goals for 2025
 - Master **Backend Engineering with Java & Node.js**  
 - Build **scalable system design projects**  
-- Strengthen **AWS + DevOps**  
+- Strengthen **Azure**  
 - Contribute to open-source  
 - Solve 500+ DSA problems  
 
