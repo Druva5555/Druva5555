@@ -87,7 +87,7 @@ A full MERN music streaming website
 
 ---
 
-# 🎯 Goals for 2025
+# 🎯 Goals
 - Master **Backend Engineering with Java & Node.js**  
 - Build **scalable system design projects**  
 - Strengthen **Azure**  
